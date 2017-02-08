@@ -1,5 +1,5 @@
 {
-    "name": "delete/knpjsonschemabundle",
+    "name": "ishapkin/knpjsonschemabundle",
     "description": "A bundle to generate json schema based on various metadata",
     "license": "MIT",
     "authors": [
