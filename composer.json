@@ -1,0 +1,17 @@
+{
+    "name": "delete/knpjsonschemabundle",
+    "description": "A bundle to generate json schema based on various metadata",
+    "license": "MIT",
+    "authors": [
+        {
+            "name":     "Knplabs",
+            "homepage": "http://knplabs.com"
+        }
+    ],
+    "require": {
+        "php":                          ">=5.3"
+    },
+    "autoload": {
+        "psr-0": { "Knp\\JsonSchemaBundle": "src/" }
+    }
+}
